@@ -1,0 +1,27 @@
+{
+  "name": "sunua",
+  "private": true,
+  "version": "0.0.0",
+  "author": "hoberreiter@gmail.cm",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.5.0",
+    "@heroicons/vue": "^1.0.6",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0",
+    "vite-plugin-pages": "^0.22.0",
+    "vite-plugin-pages-sitemap": "^1.1.11",
+    "vite-plugin-vue-layouts": "^0.6.0"
+  }
+}
